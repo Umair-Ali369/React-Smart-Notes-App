@@ -61,6 +61,7 @@ A fully-featured Notes application built with **React** that allows users to cre
 - Sidebar handles page navigation
 - Theme state stored & synced with Local Storage
 - Clean UI state updates without page reloads
+---
 
 ### ✅ App Behavior Check
 ✔️ Notes stay after refresh  
@@ -70,7 +71,6 @@ A fully-featured Notes application built with **React** that allows users to cre
 ✔️ Theme persists after reload  
 ✔️ No console errors  
 
----
 
 ### ✅ UI / UX Polish
 - Add **empty state messages**
