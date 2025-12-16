@@ -62,7 +62,7 @@ A fully-featured Notes application built with **React** that allows users to cre
 - Theme state stored & synced with Local Storage
 - Clean UI state updates without page reloads
 
-- ### ✅ App Behavior Check
+### ✅ App Behavior Check
 ✔️ Notes stay after refresh  
 ✔️ Favorite toggle works  
 ✔️ Trash → Restore works  
