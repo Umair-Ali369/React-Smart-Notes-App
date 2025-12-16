@@ -77,7 +77,6 @@ A fully-featured Notes application built with **React** that allows users to cre
   - “No notes yet”
   - “No favorites added”
   - “Trash is empty”
-- Confirm modal for **permanent delete**
 - Active sidebar highlight
 - Smooth hover transitions
 
