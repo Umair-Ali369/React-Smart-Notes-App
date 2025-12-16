@@ -7,9 +7,6 @@ A fully-featured Notes application built with **React** that allows users to cre
 ## 🚀 Live Demo
 🔗 https://react-smart-notes-app.vercel.app/
 
-## 💻 Source Code
-🔗 https://github.com/Umair-Ali369/React-Smart-Notes-App
-
 ---
 
 ## ✨ Features
